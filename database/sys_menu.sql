@@ -1,0 +1,14 @@
+INSERT INTO `sys_menu`(`id`, `name`, `path`, `icon`, `description`, `pid`) VALUES (1, ' 主页', '/home', 'el-icon-s-home', '', NULL);
+INSERT INTO `sys_menu`(`id`, `name`, `path`, `icon`, `description`, `pid`) VALUES (5, ' 教学日历', '', 'el-icon-date', NULL, NULL);
+INSERT INTO `sys_menu`(`id`, `name`, `path`, `icon`, `description`, `pid`) VALUES (8, '  教学大纲', '', 'el-icon-reading', NULL, NULL);
+INSERT INTO `sys_menu`(`id`, `name`, `path`, `icon`, `description`, `pid`) VALUES (10, ' 我的任务', NULL, 'el-icon-document-add', NULL, NULL);
+INSERT INTO `sys_menu`(`id`, `name`, `path`, `icon`, `description`, `pid`) VALUES (11, ' 系统管理', NULL, 'el-icon-menu', NULL, NULL);
+INSERT INTO `sys_menu`(`id`, `name`, `path`, `icon`, `description`, `pid`) VALUES (12, ' 教学日历列表', '/calendar', '', NULL, 5);
+INSERT INTO `sys_menu`(`id`, `name`, `path`, `icon`, `description`, `pid`) VALUES (13, ' 教学大纲列表', '/outline', NULL, NULL, 8);
+INSERT INTO `sys_menu`(`id`, `name`, `path`, `icon`, `description`, `pid`) VALUES (18, ' 教学日历审批', '/cocalendar', NULL, NULL, 5);
+INSERT INTO `sys_menu`(`id`, `name`, `path`, `icon`, `description`, `pid`) VALUES (20, ' 教学大纲审批', '/cooutline', NULL, NULL, 8);
+INSERT INTO `sys_menu`(`id`, `name`, `path`, `icon`, `description`, `pid`) VALUES (22, ' 用户管理', '/user', NULL, NULL, 11);
+INSERT INTO `sys_menu`(`id`, `name`, `path`, `icon`, `description`, `pid`) VALUES (23, ' 教学日历任务', '/calendartask', NULL, NULL, 10);
+INSERT INTO `sys_menu`(`id`, `name`, `path`, `icon`, `description`, `pid`) VALUES (24, ' 教学大纲任务', '/outlinetask', NULL, NULL, 10);
+INSERT INTO `sys_menu`(`id`, `name`, `path`, `icon`, `description`, `pid`) VALUES (25, '教学日历申请', '/recalendar', NULL, NULL, 9);
+INSERT INTO `sys_menu`(`id`, `name`, `path`, `icon`, `description`, `pid`) VALUES (26, '个人信息', '/person', NULL, NULL, 11);

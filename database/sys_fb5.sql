@@ -1,0 +1,13 @@
+INSERT INTO `sys_fb5`(`fb51`, `fb52`, `fb53`, `fb54`, `fb55`, `fb56`, `fb5pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 47, 9);
+INSERT INTO `sys_fb5`(`fb51`, `fb52`, `fb53`, `fb54`, `fb55`, `fb56`, `fb5pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 47, 10);
+INSERT INTO `sys_fb5`(`fb51`, `fb52`, `fb53`, `fb54`, `fb55`, `fb56`, `fb5pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 73, 11);
+INSERT INTO `sys_fb5`(`fb51`, `fb52`, `fb53`, `fb54`, `fb55`, `fb56`, `fb5pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 73, 12);
+INSERT INTO `sys_fb5`(`fb51`, `fb52`, `fb53`, `fb54`, `fb55`, `fb56`, `fb5pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 73, 13);
+INSERT INTO `sys_fb5`(`fb51`, `fb52`, `fb53`, `fb54`, `fb55`, `fb56`, `fb5pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 73, 14);
+INSERT INTO `sys_fb5`(`fb51`, `fb52`, `fb53`, `fb54`, `fb55`, `fb56`, `fb5pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 73, 15);
+INSERT INTO `sys_fb5`(`fb51`, `fb52`, `fb53`, `fb54`, `fb55`, `fb56`, `fb5pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 73, 16);
+INSERT INTO `sys_fb5`(`fb51`, `fb52`, `fb53`, `fb54`, `fb55`, `fb56`, `fb5pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 111, 17);
+INSERT INTO `sys_fb5`(`fb51`, `fb52`, `fb53`, `fb54`, `fb55`, `fb56`, `fb5pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 111, 18);
+INSERT INTO `sys_fb5`(`fb51`, `fb52`, `fb53`, `fb54`, `fb55`, `fb56`, `fb5pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 111, 19);
+INSERT INTO `sys_fb5`(`fb51`, `fb52`, `fb53`, `fb54`, `fb55`, `fb56`, `fb5pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 111, 20);
+INSERT INTO `sys_fb5`(`fb51`, `fb52`, `fb53`, `fb54`, `fb55`, `fb56`, `fb5pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 111, 21);

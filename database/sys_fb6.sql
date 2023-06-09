@@ -1,0 +1,16 @@
+INSERT INTO `sys_fb6`(`fb61`, `fb62`, `fb63`, `fb64`, `fb65`, `fb66`, `fb6pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 47, 13);
+INSERT INTO `sys_fb6`(`fb61`, `fb62`, `fb63`, `fb64`, `fb65`, `fb66`, `fb6pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 47, 14);
+INSERT INTO `sys_fb6`(`fb61`, `fb62`, `fb63`, `fb64`, `fb65`, `fb66`, `fb6pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 73, 15);
+INSERT INTO `sys_fb6`(`fb61`, `fb62`, `fb63`, `fb64`, `fb65`, `fb66`, `fb6pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 73, 16);
+INSERT INTO `sys_fb6`(`fb61`, `fb62`, `fb63`, `fb64`, `fb65`, `fb66`, `fb6pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 73, 17);
+INSERT INTO `sys_fb6`(`fb61`, `fb62`, `fb63`, `fb64`, `fb65`, `fb66`, `fb6pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 73, 18);
+INSERT INTO `sys_fb6`(`fb61`, `fb62`, `fb63`, `fb64`, `fb65`, `fb66`, `fb6pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 73, 19);
+INSERT INTO `sys_fb6`(`fb61`, `fb62`, `fb63`, `fb64`, `fb65`, `fb66`, `fb6pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 73, 20);
+INSERT INTO `sys_fb6`(`fb61`, `fb62`, `fb63`, `fb64`, `fb65`, `fb66`, `fb6pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 111, 21);
+INSERT INTO `sys_fb6`(`fb61`, `fb62`, `fb63`, `fb64`, `fb65`, `fb66`, `fb6pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 111, 22);
+INSERT INTO `sys_fb6`(`fb61`, `fb62`, `fb63`, `fb64`, `fb65`, `fb66`, `fb6pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 111, 23);
+INSERT INTO `sys_fb6`(`fb61`, `fb62`, `fb63`, `fb64`, `fb65`, `fb66`, `fb6pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 111, 24);
+INSERT INTO `sys_fb6`(`fb61`, `fb62`, `fb63`, `fb64`, `fb65`, `fb66`, `fb6pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 130, 25);
+INSERT INTO `sys_fb6`(`fb61`, `fb62`, `fb63`, `fb64`, `fb65`, `fb66`, `fb6pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 130, 26);
+INSERT INTO `sys_fb6`(`fb61`, `fb62`, `fb63`, `fb64`, `fb65`, `fb66`, `fb6pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 130, 27);
+INSERT INTO `sys_fb6`(`fb61`, `fb62`, `fb63`, `fb64`, `fb65`, `fb66`, `fb6pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, 130, 28);

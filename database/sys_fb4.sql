@@ -1,0 +1,13 @@
+INSERT INTO `sys_fb4`(`fb41`, `fb42`, `fb43`, `fb4pid`, `id`) VALUES (NULL, NULL, NULL, 73, 9);
+INSERT INTO `sys_fb4`(`fb41`, `fb42`, `fb43`, `fb4pid`, `id`) VALUES (NULL, NULL, NULL, 73, 10);
+INSERT INTO `sys_fb4`(`fb41`, `fb42`, `fb43`, `fb4pid`, `id`) VALUES (NULL, NULL, NULL, 73, 11);
+INSERT INTO `sys_fb4`(`fb41`, `fb42`, `fb43`, `fb4pid`, `id`) VALUES (NULL, NULL, NULL, 73, 12);
+INSERT INTO `sys_fb4`(`fb41`, `fb42`, `fb43`, `fb4pid`, `id`) VALUES (NULL, NULL, NULL, 73, 13);
+INSERT INTO `sys_fb4`(`fb41`, `fb42`, `fb43`, `fb4pid`, `id`) VALUES (NULL, NULL, NULL, 73, 14);
+INSERT INTO `sys_fb4`(`fb41`, `fb42`, `fb43`, `fb4pid`, `id`) VALUES (NULL, NULL, NULL, 73, 15);
+INSERT INTO `sys_fb4`(`fb41`, `fb42`, `fb43`, `fb4pid`, `id`) VALUES (NULL, NULL, NULL, 111, 16);
+INSERT INTO `sys_fb4`(`fb41`, `fb42`, `fb43`, `fb4pid`, `id`) VALUES (NULL, NULL, NULL, 111, 17);
+INSERT INTO `sys_fb4`(`fb41`, `fb42`, `fb43`, `fb4pid`, `id`) VALUES (NULL, NULL, NULL, 111, 18);
+INSERT INTO `sys_fb4`(`fb41`, `fb42`, `fb43`, `fb4pid`, `id`) VALUES (NULL, NULL, NULL, 111, 19);
+INSERT INTO `sys_fb4`(`fb41`, `fb42`, `fb43`, `fb4pid`, `id`) VALUES (NULL, NULL, NULL, 111, 20);
+INSERT INTO `sys_fb4`(`fb41`, `fb42`, `fb43`, `fb4pid`, `id`) VALUES (NULL, NULL, NULL, 111, 21);

@@ -1,0 +1,6 @@
+INSERT INTO `sys_user`(`id`, `username`, `password`, `usertype`, `account`, `email`, `phone`, `avatarurl`, `role`) VALUES (1, 'admin', 'admin', '', 'admin', '2627596116@qq.com', '18036363544444', '193401050217', '教务员');
+INSERT INTO `sys_user`(`id`, `username`, `password`, `usertype`, `account`, `email`, `phone`, `avatarurl`, `role`) VALUES (8, '陈宇', '11111', '', '11111', 'ssadq@sina.com', '13914877997', '193401050218', '教师');
+INSERT INTO `sys_user`(`id`, `username`, `password`, `usertype`, `account`, `email`, `phone`, `avatarurl`, `role`) VALUES (15, '宋元', '12345', NULL, '12345', '111', '111', '193401050217', '教师');
+INSERT INTO `sys_user`(`id`, `username`, `password`, `usertype`, `account`, `email`, `phone`, `avatarurl`, `role`) VALUES (16, '杨洪容', '123456', NULL, '123456', '1111', '1111', '193401050219', '教师');
+INSERT INTO `sys_user`(`id`, `username`, `password`, `usertype`, `account`, `email`, `phone`, `avatarurl`, `role`) VALUES (17, 'admin2', 'admin2', NULL, 'admin2', 'admin2', 'admin2', 'admin2', '教务员');
+INSERT INTO `sys_user`(`id`, `username`, `password`, `usertype`, `account`, `email`, `phone`, `avatarurl`, `role`) VALUES (18, '胡静伟', '12345b', NULL, '12345b', '11111', '1111', '193401050215', '教师');

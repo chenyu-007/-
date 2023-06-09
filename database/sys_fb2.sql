@@ -1,0 +1,14 @@
+INSERT INTO `sys_fb2`(`fb21`, `fb22`, `fb23`, `fb24`, `fb25`, `fb26`, `fb27`, `fb28`, `fb2pid`, `id`) VALUES (NULL, NULL, '11111', '1111', NULL, NULL, NULL, NULL, 73, 12);
+INSERT INTO `sys_fb2`(`fb21`, `fb22`, `fb23`, `fb24`, `fb25`, `fb26`, `fb27`, `fb28`, `fb2pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 73, 13);
+INSERT INTO `sys_fb2`(`fb21`, `fb22`, `fb23`, `fb24`, `fb25`, `fb26`, `fb27`, `fb28`, `fb2pid`, `id`) VALUES (NULL, NULL, NULL, NULL, '11111', NULL, NULL, NULL, 73, 15);
+INSERT INTO `sys_fb2`(`fb21`, `fb22`, `fb23`, `fb24`, `fb25`, `fb26`, `fb27`, `fb28`, `fb2pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 73, 17);
+INSERT INTO `sys_fb2`(`fb21`, `fb22`, `fb23`, `fb24`, `fb25`, `fb26`, `fb27`, `fb28`, `fb2pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 111, 18);
+INSERT INTO `sys_fb2`(`fb21`, `fb22`, `fb23`, `fb24`, `fb25`, `fb26`, `fb27`, `fb28`, `fb2pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 111, 19);
+INSERT INTO `sys_fb2`(`fb21`, `fb22`, `fb23`, `fb24`, `fb25`, `fb26`, `fb27`, `fb28`, `fb2pid`, `id`) VALUES (NULL, NULL, NULL, '11111', NULL, NULL, NULL, NULL, 111, 20);
+INSERT INTO `sys_fb2`(`fb21`, `fb22`, `fb23`, `fb24`, `fb25`, `fb26`, `fb27`, `fb28`, `fb2pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 111, 22);
+INSERT INTO `sys_fb2`(`fb21`, `fb22`, `fb23`, `fb24`, `fb25`, `fb26`, `fb27`, `fb28`, `fb2pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 130, 23);
+INSERT INTO `sys_fb2`(`fb21`, `fb22`, `fb23`, `fb24`, `fb25`, `fb26`, `fb27`, `fb28`, `fb2pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 130, 24);
+INSERT INTO `sys_fb2`(`fb21`, `fb22`, `fb23`, `fb24`, `fb25`, `fb26`, `fb27`, `fb28`, `fb2pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 130, 25);
+INSERT INTO `sys_fb2`(`fb21`, `fb22`, `fb23`, `fb24`, `fb25`, `fb26`, `fb27`, `fb28`, `fb2pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 130, 26);
+INSERT INTO `sys_fb2`(`fb21`, `fb22`, `fb23`, `fb24`, `fb25`, `fb26`, `fb27`, `fb28`, `fb2pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 130, 27);
+INSERT INTO `sys_fb2`(`fb21`, `fb22`, `fb23`, `fb24`, `fb25`, `fb26`, `fb27`, `fb28`, `fb2pid`, `id`) VALUES (NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 130, 28);
